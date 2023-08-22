@@ -2,7 +2,8 @@
 
 ![mono](https://demo.themefisher.com/thumbnails/mono.png)
 
-👉🏻[View Live Preview](https://demo.themefisher.com/mono/)
+👉🏻[View Live Preview](https://crimeanalyst.github.io/mono-ex/source/)
+👉🏻[View Live Preview (Original)](https://demo.themefisher.com/mono/)
 
 <!-- download -->
 ## Download And installation
